@@ -204,7 +204,6 @@ The project included:
 # Dashboard Preview
 
 ![Dashboard Screenshot](Images/Tableau_Dashboard.png)
-![Dashboard Screenshot](Images/Excel_Dashboard.png)
 
 
 ---
@@ -212,7 +211,7 @@ The project included:
 # Author
 
 Vishal Singh
-Aspiring Data Analyst | Business Intelligence Enthusiast | Banking Analytics
+Data Analyst | Business Intelligence Enthusiast | Banking Analytics | Campaign Analytics
 
 ---
 
