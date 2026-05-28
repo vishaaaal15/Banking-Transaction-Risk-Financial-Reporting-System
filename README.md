@@ -216,6 +216,5 @@ Aspiring Data Analyst | Business Intelligence Enthusiast | Banking Analytics
 
 # Connect With Me
 
-* LinkedIn
-* GitHub
-* Portfolio Website (Optional)
+* LinkedIn:https://www.linkedin.com/in/vishal-singhdataanalyst
+* GitHub:https://github.com/vishaaaal15
