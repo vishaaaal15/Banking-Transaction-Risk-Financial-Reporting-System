@@ -256,7 +256,7 @@ This system demonstrates how enterprise banking analytics can:
 
 ## Executive Risk Dashboard
 
-> Add dashboard screenshots here
+> ![Tableau_Dashboard](Images/Tableau_Dashboard.png)
 
 ```markdown
 ![Tableau_Dashboard](Images/Tableau_Dashboard.png)
