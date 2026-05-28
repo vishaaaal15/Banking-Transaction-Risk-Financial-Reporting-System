@@ -259,7 +259,7 @@ This system demonstrates how enterprise banking analytics can:
 > Add dashboard screenshots here
 
 ```markdown
-![Dashboard Preview](Images/Tableau_Dashboard.png)
+![Tableau_Dashboard](Images/Tableau_Dashboard.png)
 ```
 
 ---
