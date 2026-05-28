@@ -203,7 +203,9 @@ The project included:
 
 # Dashboard Preview
 
-(Add dashboard screenshots here)
+![Dashboard Screenshot](Images/Tableau_Dashboard.png)
+![Dashboard Screenshot](Images/Excel_Dashboard.png)
+
 
 ---
 
