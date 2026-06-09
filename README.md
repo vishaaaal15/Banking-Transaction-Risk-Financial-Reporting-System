@@ -234,6 +234,6 @@ Banking-Transaction-Risk-Financial-Reporting-System/
 **Vishal Singh**
 Data Analyst | SQL | Power BI | Python | Banking Analytics
 
-GitHub: `(https://github.com/vishaaaal15)`
+GitHub:[github.com](https://github.com/vishaaaal15)
 
 ---
