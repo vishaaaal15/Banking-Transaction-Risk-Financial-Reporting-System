@@ -234,8 +234,6 @@ Banking-Transaction-Risk-Financial-Reporting-System/
 **Vishal Singh**
 Data Analyst | SQL | Power BI | Python | Banking Analytics
 
-GitHub: `https://github.com/vishaaaal15`
+GitHub: `(https://github.com/vishaaaal15)`
 
 ---
-
-This style of README is typically **9.5/10 recruiter quality** because it presents the project as a business solution, highlights domain knowledge, and demonstrates both technical and analytical skills.
