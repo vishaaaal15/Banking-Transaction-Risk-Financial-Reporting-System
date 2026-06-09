@@ -202,11 +202,11 @@ Banking-Transaction-Risk-Financial-Reporting-System/
 
 ### Executive Overview
 
-![Executive Dashboard](Images/Executive_Dashboard.png)
+![Excel_Dashboard](Images/Excel_Dashboard.png)
 
 ### Risk Monitoring
 
-![Risk Monitoring](Images/Risk_Monitoring.png)
+![Tableau_Dashboard](Images/Tableau_Dashboard.png)
 
 ### Financial Reporting
 
